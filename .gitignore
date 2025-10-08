@@ -1,5 +1,11 @@
+# 可執行檔
+*.exe
+ngrok.exe
+# Python 快取
 __pycache__/
 *.pyc
+# 環境變數檔案（包含密碼）
 .env
+# 虛擬環境
 venv/
 env/
